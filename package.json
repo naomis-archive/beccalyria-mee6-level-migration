@@ -1,6 +1,6 @@
 {
   "name": "mee6-level-migration",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tool to migrate Mee6 level data to Becca's system.",
   "main": "prod/index.js",
   "scripts": {
