@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 import levelScale from "./config/LevelScale";
 import { connectDatabase } from "./database/connectDatabase";
 import LevelModel from "./database/models/LevelModel";
