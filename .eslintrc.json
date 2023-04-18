@@ -3,14 +3,7 @@
     "es2020": true,
     "node": true
   },
-  "extends": [
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "plugin:prettier/recommended",
-    "plugin:jsdoc/recommended",
-    "plugin:import/recommended",
-    "plugin:import/typescript"
-  ],
+  "extends": ["@nhcarrigan"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 11,
